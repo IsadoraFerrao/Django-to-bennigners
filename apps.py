@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class BolsistasConfig(AppConfig):
+class BolsistaswomakersConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'bolsistas'
+    name = 'bolsistasWoMakers'
